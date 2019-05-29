@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Academic</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2019 20:24:07 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo_Publish</title>
+      <link>/post/hugo_publish/</link>
+      <pubDate>Wed, 29 May 2019 20:24:07 +0300</pubDate>
+      
+      <guid>/post/hugo_publish/</guid>
+      <description>cd blog hugo new post/test.md 生成发布文件到public hugo &amp;ndash;theme=acadmic git非初次提交 cd public git add -all git commit -m &amp;ldquo;&amp;rdquo; git push -f origin master</description>
+    </item>
+    
+  </channel>
+</rss>
