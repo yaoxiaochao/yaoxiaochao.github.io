@@ -17,15 +17,21 @@
       <pubDate>Wed, 29 May 2019 20:24:07 +0300</pubDate>
       
       <guid>/post/hugo_publish/</guid>
-      <description>&lt;p&gt;cd blog
-hugo new post/test.md
-生成发布文件到public
-hugo &amp;ndash;theme=acadmic
-git非初次提交
-cd public
-git add -all
-git commit -m &amp;ldquo;&amp;rdquo;
-git push -f origin master&lt;/p&gt;
+      <description>&lt;p&gt;###cd blog
+###hugo new post/test.md
+###生成发布文件到public
+###hugo &amp;ndash;theme=acadmic
+###git非初次提交
+###cd public
+###git add -all
+###git commit -m &amp;ldquo;&amp;rdquo;
+###git push -f origin master
+###git 初始提交
+###git init
+###git add -all
+###remote add origin &lt;a href=&#34;https://github.com/yaoxiaochao/yaoxiaochao.github.io.git&#34; target=&#34;_blank&#34;&gt;https://github.com/yaoxiaochao/yaoxiaochao.github.io.git&lt;/a&gt;
+###git commit -m &amp;ldquo;&amp;rdquo;
+###git push -u origin master&lt;/p&gt;
 </description>
     </item>
     
